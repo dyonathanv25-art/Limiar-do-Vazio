@@ -1,0 +1,6 @@
+{
+  "name": "Aeldrin: O Véu Fraturado",
+  "description": "Protótipo jogável e códice interativo do MMORPG Aeldrin com 5 classes clássicas, 30 subclasses (9 secretas), 300 habilidades paradoxais e 11 chefes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
